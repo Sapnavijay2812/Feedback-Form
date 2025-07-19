@@ -112,12 +112,6 @@ Feedback_form/
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots or screen recordings here (optional)
-
----
-
 ## 🧠 Future Improvements
 
 - Role-based dashboards
@@ -129,10 +123,10 @@ Feedback_form/
 
 ## 🧑‍💻 Author
 
-- [Your Name](https://github.com/your-username)
+- Sapna Vijay
 
 ---
 
 ## 📝 License
 
-MIT License © 2025
+© 2025
